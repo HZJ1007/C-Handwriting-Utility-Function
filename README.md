@@ -7,3 +7,6 @@
 ## STL表
 
 中国大陆优先推荐 $1$ 号原文链接：[zh-LuoguArticle](https://www.luogu.com.cn/article/1dauvsa1)
+
+通用链接： [GitHubArticle](https://github.com/HZJ1007/C-Handwriting-Utility-Function/blob/main/STL-Section.md)
+
