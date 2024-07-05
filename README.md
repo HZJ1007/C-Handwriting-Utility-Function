@@ -6,7 +6,7 @@
 
 ## STL表
 
-> 优先推荐 $1$ 号链接：[GitHub](https://github.com/HZJ1007/C-Handwriting-Utility-Function/blob/STL/README.md)\
+> 优先推荐 $1$ 号链接：[GitHub](https://github.com/HZJ1007/C-Handwriting-Utility-Function/blob/STL/README.md)
 
 > 中国大陆推荐 $2$ 号链接： [LuoguBlog](https://www.luogu.com.cn/article/1dauvsa1)
 
